@@ -8,10 +8,12 @@ import 'package:sbt_auth_dart/sbt_auth_dart.dart';
 import 'package:web3dart/crypto.dart';
 
 /// Develop mode base url
-const DEVELOP_BASE_URL = 'http://6c68007a.r24.cpolar.top';
+// const DEVELOP_BASE_URL = 'http://6c68007a.r24.cpolar.top';
+const DEVELOP_BASE_URL = 'https://sbt-api.walletapp.shop';
 
 /// Production mode base url
-const PRODUCTION_BASE_URL = 'http://6c68007a.r24.cpolar.top';
+// const PRODUCTION_BASE_URL = 'http://6c68007a.r24.cpolar.top';
+const PRODUCTION_BASE_URL = 'https://sbt-api.walletapp.shop';
 
 /// Develop mode solana url
 const DEVELOP_SOLANA_URL =
